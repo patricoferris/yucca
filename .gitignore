@@ -1,0 +1,9 @@
+.vscode 
+_build
+node_modules
+.cache
+.graphql_ppx_cache
+lib
+unikernel/secrets
+unikernel/static
+*.bs.js
